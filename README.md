@@ -28,7 +28,7 @@ Create a program that simulates the process of breaking into a digital vault by 
 - **Creativity in Code and Decryption:** There are many different ways to approach this challenge. Do something nobody else would.
 - **User Engagement:** The interaction should be engaging and require some thought or strategy.
 - **Robustness:** Handle edge cases and invalid inputs gracefully.
-- **Documentation:** Comment the code well to explain the thought process and logic.
+- **Documentation:** Comment the code well to explain the thought process and logic. In addition, write a description in the README.md file.
 
 ## Optional Challenges
 
